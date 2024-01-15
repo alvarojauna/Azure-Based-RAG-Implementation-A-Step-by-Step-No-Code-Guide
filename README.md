@@ -1,1 +1,1 @@
-# Azure-Based-RAG-Implementation-A-Step-by-Step-No-Code-Guide
+# Azure Based RAG Implementation: A Step by Step No Code Guide
